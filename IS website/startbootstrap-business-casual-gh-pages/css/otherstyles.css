@@ -1,0 +1,26 @@
+/* Write out the general coloring and font of text */
+body{font-family: Arial, Helvetica, sans-serif;
+    font-size: 52px;
+    color: #102456;
+    background-color: rgb(244, 244, 101);}
+li {font-size: 41px;
+    font-style: italic;
+    font-weight: normal;}
+a {color: deeppink;
+ text-decoration: none;}
+ a:hover {text-decoration: underline;}
+ a:visited {color: rgb(14, 103, 198);}
+.resumeListHeading {font-weight: bold; 
+    font-style: normal;}
+.underline {text-decoration: underline;}
+.bold {font-weight: bold;}
+.justify {text-align: justify;}
+
+.randombg {background-image: url('../assets/img/flowers.jpg');
+    background-position: top right;}
+
+.box1 {border-width: 1px;
+border-style: solid;
+border-color: blueviolet;}
+.box2 {padding: 5px;}
+.box3 {margin: 50px;}
